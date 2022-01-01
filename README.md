@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @redpandapatronus
+- 👀 I’m interested in the Cardano blockchain.
+- 🌱 I’m currently learning how to build dApps on Cardano.
+- 📫 How to reach me: Twitter - 0xRPP | Discord - redpandapatronus#0420
